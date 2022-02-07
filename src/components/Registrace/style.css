@@ -1,0 +1,8 @@
+
+.error-visible{
+    display: block;
+}
+
+.error-hidden{
+    display: none;
+}
