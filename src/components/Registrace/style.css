@@ -6,3 +6,11 @@
 .error-hidden{
     display: none;
 }
+
+.registrace-ok{
+    display: block;
+}
+
+.registrace-hidden{
+    display: none;
+}
